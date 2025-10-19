@@ -1,5 +1,5 @@
 # 💫 About Me:
-Soy un programador junior apasionado por la tecnología y el desarrollo web. Me encanta aprender nuevas herramientas, resolver problemas con código y construir soluciones que realmente aporten valor.<br><br>Tanto el diseño como las funcionalidades. Actualmente estoy enfocado en mejorar mis habilidades en JavaScript, HTML, CSS, y aprendiendo tecnologías como React y Node.js.<br><br>Me definen la responsabilidad, la curiosidad y las ganas de superarme. Estoy en constante formación, buscando siempre mejorar mis habilidades técnicas y aportar de forma positiva en cualquier equipo de trabajo.<br>
+Programador junior apasionado por la tecnología y el desarrollo web. Me encanta aprender nuevas herramientas, resolver problemas con código y construir soluciones que realmente aporten valor.<br><br>Tanto el diseño como las funcionalidades. Actualmente estoy enfocado en mejorar mis habilidades en JavaScript, HTML, CSS, y aprendiendo tecnologías como React y Node.js.<br><br>Me definen la responsabilidad, la curiosidad y las ganas de superarme. Estoy en constante formación, buscando siempre mejorar mis habilidades técnicas y aportar de forma positiva en cualquier equipo de trabajo.<br>
 
 
 ## 🌐 Socials:
